@@ -1,0 +1,45 @@
+value,text,moneda
+22,IF Libre Disponibilidad Soles FMIV-A,Soles
+22,IF Libre Disponibilidad Soles FMIV-B,Soles
+22,IF Libre Disponibilidad Soles FMIV-C,Soles
+04,IF Mediano Plazo Soles FMIV-,Soles
+12,IF Inversión Flexible FMIV-,Soles
+10,IF Acciones FMIV-,Soles
+16,IF Oportunidad Soles FMIV-A,Soles
+16,IF Oportunidad Soles FMIV-B,Soles
+16,IF Oportunidad Soles FMIV-C,Soles
+56,IF Portafolio Dinámico Soles FMIV-,Soles
+56,IF Portafolio Dinámico Soles FMIV-A,Soles
+56,IF Portafolio Dinámico Soles FMIV-B,Soles
+49,IF Futuro Seguro Soles FMIV-,Soles
+76,IF 38 Custodia Dólares FMIV-A,Soles
+76,IF 38 Custodia Dólares FMIV-B,Soles
+62,FDF IF XXV Rendimiento Global 360 FMIV,Soles
+90,FDF IF XXIX Rendimiento Global 360 FMIV-A,Soles
+90,FDF IF XXIX Rendimiento Global 360 FMIV-B,Soles
+17,IF Oportunidad FMIV-A,Dólares
+17,IF Oportunidad FMIV-B,Dólares
+17,IF Oportunidad FMIV-C,Dólares
+02,IF Mediano Plazo FMIV-,Dólares
+24,IF Libre Disponibilidad FMIV-,Dólares
+24,IF Libre Disponibilidad FMIV-A,Dólares
+24,IF Libre Disponibilidad FMIV-B,Dólares
+24,IF Libre Disponibilidad FMIV-C,Dólares
+01,IF Mixto Balanceado FMIV-,Dólares
+20,IF Inversión Global FMIV-,Dólares
+50,IF Enfoque Latam FMIV-,Dólares
+55,IF Portafolio Dinámico FMIV-,Dólares
+84,FDF IF Enfoque Global FMIV-,Dólares
+40,FDF IF Global Thematics FMIV-,Dólares
+41,FDF IF Real Estate Student Accommodation FMIV-,Dólares
+64,IF Futuro Seguro Dólares FMIV-,Dólares
+31,FDF IF Inversión EE.UU. FMIV-,Dólares
+78,IF 39 Custodia Dólares FMIV,Dólares
+61,FDF IF XXIV RENDIMIENTO GLOBAL 360 FMIV,Dólares
+79,IF 40 Custodia Dólares FMIV,Dólares
+91,FDF IF 30 Rendimiento Global 332 FMIV,Dólares
+81,IF 41 Custodia Dólares FMIV,Dólares
+93,FDF IF 32 Rendimiento Global 360 FMIV,Dólares
+89,FDF IF XXVIII Rendimiento Global 360 FMIV,Dólares
+94,FDF IF 33 Rendimiento Global 360 FMIV,Dólares
+82,IF 42 Custodia Dólares FMIV,Dólares

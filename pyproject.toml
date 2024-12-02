@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "interfondos"
+version = "0.1.0"
+description = "Datos de interfondos"
+authors = ["Jhon Flores Rojas"]
+license = "GNU General Public License"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+pandas = "^2.2.3"
+selenium = "^4.27.1"
+tqdm = "^4.67.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
