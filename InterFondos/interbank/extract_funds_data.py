@@ -1,8 +1,4 @@
 import datetime
-from http.client import REQUEST_URI_TOO_LONG
-from pickletools import read_uint1
-from sqlite3 import DataError
-from unittest import result
 import pandas as pd
 from extract_funds_0exists import SAVE_INTEBANK, funds
 
