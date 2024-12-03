@@ -1,7 +1,8 @@
 import datetime
 import pandas as pd
-from extract_funds_0exists import SAVE_INTEBANK, funds
 
+SAVE_INTEBANK = "data/interbank"
+funds = "interfondos_funds_name.csv"
 
 # text_last_string: de A-D, incluido el "-"
 def extract_last_element(text):
